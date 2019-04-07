@@ -25,6 +25,8 @@ We can also use git add .
 
 8. After push, we can find file in the repository marked with 'LFS'
 
+because we are tracking '.png' files, so Git LFS not mark .pdf file
+
 ![alt text](https://github.com/duozhanggithub/Git_LFS-and-Git/blob/master/Git_LFS_Demo.png)
 
 # Git
